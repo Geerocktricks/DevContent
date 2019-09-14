@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(214, 218, 19);
+    color:red;
+    font-family: sans-serif;
+    font-size:16px;
+}
+
+a{
+    color:green;
+    text-decoration: none;
+    text-transform: capitalize;
+}

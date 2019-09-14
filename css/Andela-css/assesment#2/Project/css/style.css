@@ -1,0 +1,23 @@
+body{
+	background-color: lightgray;
+	font-family:sans-serif;
+	color: purple;
+}
+div{
+	padding-left: 50px;
+}
+h1{
+	text-transform: uppercase;
+}
+
+h3{
+	color: red;
+}
+
+a{
+	text-decoration:none;
+	color: green;
+}
+ul{
+	font-size:16px;
+}

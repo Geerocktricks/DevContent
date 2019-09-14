@@ -1,0 +1,22 @@
+body{
+  background-color: #ab3333;
+  font-family: Arial;
+}
+h1{
+  color: white;
+  text-transform:uppercase;
+  font-family: sarif;
+    font-size:300%;
+}
+p {
+  color: rgb(256,256,256);
+  font-family: arial;
+    font-size:200%;
+}
+a{
+  color: black;
+  text-decoration:none;
+}
+a:hover{
+  color:white;
+}

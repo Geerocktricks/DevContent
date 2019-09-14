@@ -1,0 +1,20 @@
+body{
+	background-color: #1BA;
+	font-family: 'Open Sans', sans-serif;
+}
+h1{
+	color: brown;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+p{
+	font-size: 17px;
+}
+h2{
+	color: orange;
+}
+a{
+	text-decoration:underline;
+	color: blue;
+	text-transform: all;
+}
